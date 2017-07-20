@@ -1,0 +1,29 @@
+body {
+	margin: 100px;
+	background: ivory;
+	border-style: solid;
+	border-width: 2px;
+}
+
+h1 {
+	padding: 20px;
+	background: brown;
+	text-align: center
+}
+
+.bio {
+	float: left;
+}
+
+img {
+	float: left;
+}
+
+ul {
+	text-align: left;
+	float: left;
+	border-style: solid;
+	border-width: 2px;
+	list-style-position: inside;
+
+    }
